@@ -12,35 +12,6 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=77-mika&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
-Here's a beautiful, special version of your GitHub profile README with enhanced styling, emojis, animations, and visual elements:
-
-```markdown
-<div align="center">
-  
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojys/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Mohammad-Amin (Mika)
-
-### <code>Full-Stack Developer</code> ⚡ <code>Embedded Systems Engineer</code>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=2E8B57&center=true&vCenter=true&width=600&lines=Bridging+Hardware+and+Software;Register-Level+STM32+Developer;Building+Efficient+Real-World+Solutions;Always+Learning+New+Technologies)](https://git.io/typing-svg)
-
-</div>
-
-## 🧑‍💻 About Me
-
-```python
-class Mika:
-    def __init__(self):
-        self.role = "Full-Stack Developer & Embedded Systems Enthusiast"
-        self.web_stack = ["Python", "Django", "JavaScript", "React"]
-        self.embedded = ["STM32", "Register-Level C", "ARM Architecture"]
-        self.philosophy = "Build efficient solutions that make an impact"
-        self.location = "🌍 Somewhere coding..."
-    
-    def daily_mission(self):
-        return "Build things that matter!"
-```
-
----
 
 ## </> Tech Stack
 
