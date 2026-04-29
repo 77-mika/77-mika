@@ -1,13 +1,14 @@
 # 👋 Hi, I'm mohammad-amin(mika)
 
-**Full-Stack Developer** & **Embedded Systems Enthusiast**  
+**Full-Stack Developer & Embedded Systems Enthusiast**
 
-💻 I build **web applications** with **Python**, **Django**, and **JavaScript**  
-🛠️ I program **STM32 microcontrollers** at the **register level** for **embedded projects**  
-📚 I’m passionate about **learning new technologies** and improving my **skills**  
-⚡ I enjoy creating **efficient, real-world solutions** that make an **impact**  
+💻 I spend my days crafting web apps with Python, Django, and JavaScript — **turning ideas into working products**
 
+🛠️ When I'm not in the browser, you'll find me deep in STM32 registers, **bringing hardware to life at the bare metal level**
 
+📚 I've got a soft spot for picking up new tech. If something sparks my curiosity, I dive right in
+
+⚡ **At the end of the day, I just love building things that actually solve problems and work in the real world**
 
 
 
@@ -110,9 +111,9 @@
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/77-mika)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/77mika)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:notthemika@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ownarinoseraph)
 
 </div>
 
