@@ -120,7 +120,7 @@
   
 ### 💡 *"Code is poetry written in logic. Hardware is where it comes to life."*
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="25" height="25" /> Thanks for visiting! Keep building awesome things. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rocket.png" alt="Rocket" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="25" height="25" /> Thanks for visiting! Keep building awesome things.
 
 ![](https://komarev.com/ghpvc/?username=77-mika&color=2E8B57&style=flat-square&label=Profile+Views)
 
