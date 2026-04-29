@@ -94,10 +94,15 @@
 ## 🌱 Currently Leveling Up
 
 <div align="center">
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
-  </a>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=500&color=61DAFB&center=true&vCenter=true&width=200&lines=Next.js;App+Router;Server+Components" />
+  
+  | React | Next.js |
+  |:---:|:---:|
+  | <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="56" height="56" /></a> | <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="56" height="56" /></a> |
+  
+  <br/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=500&color=61DAFB&center=true&vCenter=true&width=350&lines=React+%2B+Next.js;Full-Stack+Development;App+Router;Server+Components" />
+  
 </div>
 
 ---
