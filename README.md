@@ -14,14 +14,13 @@
 ## 🚀 Stats That Speak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=77-mika&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=2E8B57&ring=2E8B57&fire=FF6B00" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=77-mika&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=2E8B57&title_color=2E8B57" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77-mika&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=2E8B57" width="42%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=77-mika&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=2E8B57&title_color=2E8B57" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=77-mika&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=2E8B57&ring=2E8B57&fire=FF6B00" width="55%" />
 </div>
-
 
 
 
