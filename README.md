@@ -1,16 +1,160 @@
-## Hi there 👋
+# 👋 Hi, I'm mohammad-amin(mika)
 
-<!--
-**77-mika/77-mika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer** & **Embedded Systems Enthusiast**  
 
-Here are some ideas to get you started:
+💻 I build **web applications** with **Python**, **Django**, and **JavaScript**  
+🛠️ I program **STM32 microcontrollers** at the **register level** for **embedded projects**  
+📚 I’m passionate about **learning new technologies** and improving my **skills**  
+⚡ I enjoy creating **efficient, real-world solutions** that make an **impact**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=77-mika&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+
+Here's a beautiful, special version of your GitHub profile README with enhanced styling, emojis, animations, and visual elements:
+
+```markdown
+<div align="center">
+  
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojys/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Mohammad-Amin (Mika)
+
+### <code>Full-Stack Developer</code> ⚡ <code>Embedded Systems Engineer</code>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=2E8B57&center=true&vCenter=true&width=600&lines=Bridging+Hardware+and+Software;Register-Level+STM32+Developer;Building+Efficient+Real-World+Solutions;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+</div>
+
+## 🧑‍💻 About Me
+
+```python
+class Mika:
+    def __init__(self):
+        self.role = "Full-Stack Developer & Embedded Systems Enthusiast"
+        self.web_stack = ["Python", "Django", "JavaScript", "React"]
+        self.embedded = ["STM32", "Register-Level C", "ARM Architecture"]
+        self.philosophy = "Build efficient solutions that make an impact"
+        self.location = "🌍 Somewhere coding..."
+    
+    def daily_mission(self):
+        return "Build things that matter!"
+```
+
+---
+
+## </> Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/>
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django"/>
+      <br><strong>Django</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/>
+      <br><strong>TypeScript</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind"/>
+      <br><strong>Tailwind</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/>
+      <br><strong>C/STM32</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
+      <br><strong>Docker</strong>
+    </td>
+  </tr>
+</table>
+
+### 🎯 Focus Areas
+
+<div align="center">
+
+| 🐍 Backend | ⚛️ Frontend | 🔧 Embedded | 🛠️ Tools |
+|:---:|:---:|:---:|:---:|
+| Python | JavaScript | C | Git |
+| Django | TypeScript | STM32 | Docker |
+| DRF | React | Register-Level | REST APIs |
+| PostgreSQL | Tailwind | ARM Cortex-M | Linux |
+
+</div>
+
+---
+
+## 🚀 Stats That Speak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=77-mika&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=2E8B57&ring=2E8B57&fire=FF6B00" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77-mika&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=2E8B57" width="42%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=77-mika&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=2E8B57&title_color=2E8B57" width="55%" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=77-mika&theme=chartreuse-dark&no-frame=true&no-bg=true&margin-w=8&column=4)
+
+</div>
+
+---
+
+## 🌱 Currently Leveling Up
+
+<div align="center">
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
+  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=500&color=61DAFB&center=true&vCenter=true&width=200&lines=Next.js;App+Router;Server+Components" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/77-mika)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 *"Code is poetry written in logic. Hardware is where it comes to life."*
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="25" height="25" /> Thanks for visiting! Keep building awesome things. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rocket.png" alt="Rocket" width="25" height="25" />
+
+![](https://komarev.com/ghpvc/?username=77-mika&color=2E8B57&style=flat-square&label=Profile+Views)
+
+</div>
+```
+
+
+Simply replace the `your-profile` and `your-email@gmail.com` placeholders with your actual links!
