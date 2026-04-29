@@ -9,7 +9,7 @@
 
 
 
----
+
 
 ## 🚀 Stats That Speak
 
@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=77-mika&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=2E8B57&title_color=2E8B57" width="55%" />
 </div>
 
----
+
 
 
 ## </> Tech Stack
@@ -89,7 +89,7 @@
 
 </div>
 
----
+
 
 ## 🌱 Currently Leveling Up
 
@@ -105,7 +105,6 @@
   
 </div>
 
----
 
 ## 📫 Let's Connect
 
@@ -118,7 +117,7 @@
 
 </div>
 
----
+
 
 <div align="center">
   
