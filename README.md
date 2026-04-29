@@ -8,11 +8,6 @@
 ⚡ I enjoy creating **efficient, real-world solutions** that make an **impact**  
 
 
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=77-mika&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-
-
 ## </> Tech Stack
 
 <table align="center">
