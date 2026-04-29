@@ -125,7 +125,4 @@
 ![](https://komarev.com/ghpvc/?username=77-mika&color=2E8B57&style=flat-square&label=Profile+Views)
 
 </div>
-```
 
-
-Simply replace the `your-profile` and `your-email@gmail.com` placeholders with your actual links!
