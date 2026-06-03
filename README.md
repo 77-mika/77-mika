@@ -83,9 +83,9 @@
 | 🐍 Backend | ⚛️ Frontend | 🔧 Embedded | 🛠️ Tools |
 |:---:|:---:|:---:|:---:|
 | Python | JavaScript | C | Git |
-| Django | TypeScript | STM32 | Docker |
-| DRF | React | Register-Level | REST APIs |
-| PostgreSQL | Tailwind | ARM Cortex-M | Linux |
+| Django+DRF | TypeScript | STM32 | Docker |
+| Node.js | React | Register-Level | REST APIs |
+| MySQL | Tailwind | ARM Cortex-M | Linux |
 
 </div>
 
@@ -105,14 +105,15 @@
 
 <div align="center">
   
-  | React | Next.js |
-  |:---:|:---:|
-  | <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="56" height="56" /></a> | <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="56" height="56" /></a> |
+  | React | Next.js | Node.js |
+  |:---:|:---:|:---:|
+  | <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="56" height="56" /></a> | <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="56" height="56" /></a> | <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" /></a> |
   
   <br/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=500&color=61DAFB&center=true&vCenter=true&width=350&lines=React+%2B+Next.js;Full-Stack+Development;App+Router;Server+Components" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=500&color=61DAFB&center=true&vCenter=true&width=400&lines=React+%2B+Next.js+%2B+Node.js;Full-Stack+Development;App+Router;Server+Components;REST+APIs" />
   
+</div>
 </div>
 
 
