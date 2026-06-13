@@ -105,13 +105,13 @@
 
 <div align="center">
   
-  | React | Next.js | Node.js |
+  | Express | Next.js | Node.js |
   |:---:|:---:|:---:|
-  | <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="56" height="56" /></a> | <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="56" height="56" /></a> | <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" /></a> |
+  | <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="56" height="56" /></a> | <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="56" height="56" /></a> | <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" /></a> |
   
   <br/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=500&color=61DAFB&center=true&vCenter=true&width=400&lines=React+%2B+Next.js+%2B+Node.js;Full-Stack+Development;App+Router;Server+Components;REST+APIs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=500&color=61DAFB&center=true&vCenter=true&width=400&lines=Express+%2B+Next.js+%2B+Node.js;Full-Stack+Development;App+Router;Server+Components;REST+APIs" />
   
 </div>
 </div>
