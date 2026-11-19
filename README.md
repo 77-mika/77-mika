@@ -47,7 +47,7 @@ I build web applications and manage the infrastructure behind them, focusing on 
 
 ### Connect
 
-[GitHub](https://github.com/77-mika) · [LinkedIn](https://linkedin.com/in/77mika) · [Twitter](https://twitter.com/ownarinoseraph) · [Email](mailto:notthemika@gmail.com)
+[GitHub](https://github.com/77-mika) · [LinkedIn](https://www.linkedin.com/in/mohammad-amin-nassari-64754b427/) · [Twitter](https://twitter.com/ownarinoseraph) · [Email](mailto:notthemika@gmail.com)
 
 ---
 
